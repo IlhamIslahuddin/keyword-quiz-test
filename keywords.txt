@@ -1,1 +1,7 @@
-Router
+WAP
+1NF
+IPV4
+IPV6
+2NF
+3NF
+A* ALGORITHM
