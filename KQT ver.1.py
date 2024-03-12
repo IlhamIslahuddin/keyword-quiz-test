@@ -1,7 +1,8 @@
 #keyword question maker
 
 import random
-file = open("D:\coding\VSCODE\definitions.txt", "r")
+file = open("definitions.txt", "r")
+#destination must be changed
 search = file.read()
 num_of_lines = 1
 for characters in search:
@@ -9,13 +10,15 @@ for characters in search:
         num_of_lines = num_of_lines + 1
 line_number = random.randint(1,num_of_lines)
 
-dfile = open("D:\coding\VSCODE\definitions.txt")
+dfile = open("definitions.txt")
+#destination must be changed
 definitions = (dfile.readlines())
 print (line_number)
 random_definition = definitions[line_number-1]
 print (random_definition)
 
-kfile = open("D:\coding\VSCODE\keywords.txt")
+kfile = open("keywords.txt")
+#destination must be changed
 keywords = (kfile.readlines())
 print (line_number)
 correct_keyword = keywords[line_number-1]
