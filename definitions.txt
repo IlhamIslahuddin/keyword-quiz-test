@@ -5,3 +5,8 @@ Newer IP address format which uses 128 bits, such as A8F0:7FFF:FO F1: F000:3 DDO
 All non-key columns must depend on the entire primary key
 The third step in normalizing a database and it builds on the first and second normal forms, 1NF and 2NF
 An algorithm that finds the shortest route between nodes or vertices but uses an additional heuristic approach to achieve better performance than Dijkstra's algorithm
+Type of test data that should be rejected by a program
+Mode of addressing in which the contents of the memory location in the operand are used
+A data type that is a collection of data and a set of operations on that data
+The process of extracting information that is essential, while ignoring what is not relevant, for the provision of a solution
+The testing of a completed program to prove to the customer that it works as required
