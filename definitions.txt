@@ -10,3 +10,4 @@ Mode of addressing in which the contents of the memory location in the operand a
 A data type that is a collection of data and a set of operations on that data
 The process of extracting information that is essential, while ignoring what is not relevant, for the provision of a solution
 The testing of a completed program to prove to the customer that it works as required
+A state the system reaches when the input string is valid
