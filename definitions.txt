@@ -11,3 +11,41 @@ A data type that is a collection of data and a set of operations on that data
 The process of extracting information that is essential, while ignoring what is not relevant, for the provision of a solution
 The testing of a completed program to prove to the customer that it works as required
 A state the system reaches when the input string is valid
+Use of access levels to ensure only authorised users can gain access to certain data
+The permissions given to database users to access, modify or delete data
+Temporary general purpose register which stores numerical values at any part of a given operation
+Message sent to a receiver to indicate that data has been received without error
+Association for Computing Machinery
+The alteration of a program to perform new tasks
+Carries the addresses throughout the computer system
+Different methods of using the operand part of a machine code instruction as a memory address
+Wireless connectivity that uses radio waves & microwaves
+An ordered set of steps to be followed in the completion of a task
+The testing of a completed or nearly completed program in-house by the development team
+Needed to convert analogue data (read from sensors, for example) into a form understood by a computer
+Part of the program development lifecycle; a process of investigation, leading to the specification of what a program is required to do
+Software that quarantines and deletes files or programs infected by a virus (or other malware); it can be run in the background or initiated by the user
+File access mode in which data can be added to the end of a file
+The value passed to a procedure or function
+Logic unit (ALU)
+The sign of the number is preserved
+Advanced Research Projects Agency Network
+A data structure containing several elements of the same data type
+Machine or application which carries out a task that requires some degree of intelligence when carried out by a human counterpart
+Networks of interconnected nodes based on the interconnections between neurons in the human brain; the system is able to think like a human using these neural networks, and its performance improves with more data
+Coding system for all the characters on a keyboard and control codes
+A computer program that translates programming code written in assembly language into machine code; assemblers can be one pass or two pass
+A low level languge that is similar to machine code
+Encryption that uses both public keys (known to everyone) and private keys (secret keys)
+Serial refers to a single wire being used to transmit bits of data one after the other; asynchronous refers to a sender using its own clock/ timer device rather sharing the same clock/timer with the recipient device
+Deterioration of signal
+In database management systems, sometimes used as a synonym for field
+A named piece of data stored within an object
+Method used to reduce the size of a sound file using perceptual music shaping
+A way of proving somebody or something is who or what they claim to be
+A method of data verification. A sends information to B. A keeps copy of message and B sends the message back when it has received it. If A doesn't hear from B then A sends it again after a reasonable amount of time
+Method used in artificial neural networks to calculate error gradients so that actual node/neuron weightings can be adjusted to improve the performance of the model
+Software that makes copies of files on another portable storage device
+A formal method of defining the grammatical rules of a programming language
+A faulty sector on an HOD which can be soft or hard
+#delete this line and leave the space
