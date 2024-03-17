@@ -40,9 +40,9 @@ def high_score(score):
      if int(score) >= int(looked[0]):
        overwrite = open("high score.txt","w")
        overwrite.write(str(score))
-       print ("| New High Score! ",score)
+       print ("| New High Score! ",score," |")
      elif int(score) == int(looked[0]):
-         print ("Tied For High Score.")
+         print ("| Tied For High Score. |")
      else:
          print ("|| Current High Score To Beat:",looked[0]," ||")
 def score_write():
