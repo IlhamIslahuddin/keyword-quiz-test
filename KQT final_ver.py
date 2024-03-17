@@ -27,7 +27,7 @@ def find_RD():
     return random_definition
 
 def find_CK():
-    kfile = open("D:\coding\VSCODE\keywords.txt")
+    kfile = open("keywords.txt")
     global keywords
     keywords = (kfile.readlines())
     global correct_keyword
