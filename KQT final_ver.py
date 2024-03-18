@@ -67,5 +67,6 @@ def guess():
             high_score(score)
             correct = False
 
-initialise()
-guess()
+if __name__ == "__main__":
+    initialise()
+    guess()
